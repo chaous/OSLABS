@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aleksejrozkov/CLionProjects/OSlab22/main.cpp
+iostream
+-
+chrono
+-
+cstdlib
+-
+ctime
+-
+vector
+-
+thread
+-
+

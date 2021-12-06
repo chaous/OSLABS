@@ -1,0 +1,3 @@
+/Users/aleksejrozkov/CLionProjects/OSlab12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aleksejrozkov/CLionProjects/OSlab12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksejrozkov/CLionProjects/OSlab12/cmake-build-debug/CMakeFiles/OSlab12.dir

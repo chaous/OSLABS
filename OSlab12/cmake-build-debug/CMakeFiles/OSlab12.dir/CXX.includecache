@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aleksejrozkov/CLionProjects/OSlab12/main.cpp
+unistd.h
+/Users/aleksejrozkov/CLionProjects/OSlab12/unistd.h
+stdio.h
+/Users/aleksejrozkov/CLionProjects/OSlab12/stdio.h
+string.h
+-
+iostream
+-
+fstream
+-
+sys/stat.h
+-
+sys/types.h
+-
+vector
+-
+
